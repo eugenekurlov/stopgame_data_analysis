@@ -14,9 +14,13 @@ Data were collected in 18.09.2023. The structure of website can be modified over
 There is no exact value for reviews with more than 10 thousands views, just a number of thousands and letter "K". To make analysis we replace "K" with a random 3-digit number. Save modified data into the new separate file "stopgame_transformed.csv" to avoid the randomization in every analysis run.
 
 ## Methods used
+* Web scraping, web parsing, data collection
 * Data Visualization (line charts, histograms, scatter plots, box plots)
 * Descriptive statistics (mean, median, standard deviation, count)
 * Inferential Statistics (hypothesis testing &mdash; ANOVA, Kruskal-Wallis test)
+
+## Skills
+Python: beautifulsoup4, pandas, numpy, matplotlib, seabron, scipy.stats
 
 ## Results
 The reviews of the games in 'Приключение' genre are the least attractive for stopgame.ru users than of the games in any other genre.
